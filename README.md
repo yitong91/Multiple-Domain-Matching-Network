@@ -1,4 +1,4 @@
-# Multiple-Target-Matching-Network
+# Multiple-Domain-Matching-Network
 Code for the paper "Extracting Relationships by Multi-Domain Matching".
 
 The current uploaded code is for the SEED EEG dataset. It is based on tensorflow 1.7.0. 
