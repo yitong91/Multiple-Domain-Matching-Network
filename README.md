@@ -1,5 +1,5 @@
 # Multiple-Target-Matching-Network
-For multiple target domain adaptation.
+Code for the paper "Extracting Relationships by Multi-Domain Matching".
 
 The current uploaded code is for the SEED EEG dataset. Will upload the code for image classification soon.
 
