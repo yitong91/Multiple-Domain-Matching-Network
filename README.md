@@ -1,7 +1,9 @@
 # Multiple-Target-Matching-Network
 Code for the paper "Extracting Relationships by Multi-Domain Matching".
 
-The current uploaded code is for the SEED EEG dataset. Will upload the code for image classification soon.
+The current uploaded code is for the SEED EEG dataset. It is based on tensorflow 1.7.0. 
+
+Will upload the code for image classification soon.
 
 If you find this work interesting, please cite the following paper:
 
